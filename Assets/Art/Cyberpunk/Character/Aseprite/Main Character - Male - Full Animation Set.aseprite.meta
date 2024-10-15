@@ -1,0 +1,3619 @@
+fileFormatVersion: 2
+guid: a20d357350f1c094b97550281413dde0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638644548116114943
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Main Character - Male - Full Animation Set_Frame_0
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 126
+      width: 13
+      height: 17
+    spriteID: c104ca25e5f992048a718b3ae81d6fb1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 126}
+  - name: Main Character - Male - Full Animation Set_Frame_1
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 151
+      width: 13
+      height: 17
+    spriteID: 2f456d0414deda448bf5be0b82bc7eb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 151}
+  - name: Main Character - Male - Full Animation Set_Frame_2
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 398
+      width: 13
+      height: 16
+    spriteID: c27a8d673b16e0147b67fea0c15fa7b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 398}
+  - name: Main Character - Male - Full Animation Set_Frame_3
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 56
+      width: 15
+      height: 15
+    spriteID: d71469ebae4ce0b428ea02fd66267000
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 56}
+  - name: Main Character - Male - Full Animation Set_Frame_4
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 48
+      width: 13
+      height: 15
+    spriteID: ed17c4f9343fc074c8a1043e386dbb74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 48}
+  - name: Main Character - Male - Full Animation Set_Frame_5
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 359
+      width: 11
+      height: 16
+    spriteID: 76894737d9414cd4aa73dce0fa95c253
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 359}
+  - name: Main Character - Male - Full Animation Set_Frame_6
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 176
+      width: 13
+      height: 17
+    spriteID: 77483e6afdf729445bf830c72a0dd153
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 176}
+  - name: Main Character - Male - Full Animation Set_Frame_7
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 201
+      width: 13
+      height: 17
+    spriteID: 1db6365228b61c9488dc8069d2db74d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 201}
+  - name: Main Character - Male - Full Animation Set_Frame_8
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 117
+      width: 12
+      height: 16
+    spriteID: c106005dca845864cbc2156f5d777b90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 117}
+  - name: Main Character - Male - Full Animation Set_Frame_9
+    originalName: 
+    pivot: {x: 0.61538464, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 71
+      width: 13
+      height: 15
+    spriteID: a77cbdb97fb4c7c46815919ccdde8007
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 71}
+  - name: Main Character - Male - Full Animation Set_Frame_10
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 215
+      width: 12
+      height: 15
+    spriteID: 858d738a355e7434aa6a6674be0728ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 215}
+  - name: Main Character - Male - Full Animation Set_Frame_11
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 383
+      width: 11
+      height: 16
+    spriteID: 0e3ec16ccfe18bb4094595bf40557f87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 383}
+  - name: Main Character - Male - Full Animation Set_Frame_12
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 422
+      width: 12
+      height: 17
+    spriteID: 20ad0ad3bacc4314fb2027c8313574c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 422}
+  - name: Main Character - Male - Full Animation Set_Frame_13
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 447
+      width: 12
+      height: 17
+    spriteID: ecf8bc6132b37e347aa8e8f55bf4181f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 447}
+  - name: Main Character - Male - Full Animation Set_Frame_14
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 141
+      width: 12
+      height: 16
+    spriteID: 7ac8ea44fa4470d49ab92cc8f5b5fd44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 141}
+  - name: Main Character - Male - Full Animation Set_Frame_15
+    originalName: 
+    pivot: {x: 0.61538464, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 94
+      width: 13
+      height: 15
+    spriteID: 9ce603d711cb25f4eb62f2ae0886e781
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 94}
+  - name: Main Character - Male - Full Animation Set_Frame_16
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 238
+      width: 12
+      height: 15
+    spriteID: 56c33154b87d71c4da34fac0761d6ffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 238}
+  - name: Main Character - Male - Full Animation Set_Frame_17
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 407
+      width: 11
+      height: 16
+    spriteID: 50c8e8cfa5cc20549b23b7385a85e5a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 407}
+  - name: Main Character - Male - Full Animation Set_Frame_18
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 226
+      width: 13
+      height: 17
+    spriteID: 5cecbe18b21004840bf07296930c2df0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 226}
+  - name: Main Character - Male - Full Animation Set_Frame_19
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 431
+      width: 11
+      height: 16
+    spriteID: babf28486d09184488e22545b3cd5d92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 431}
+  - name: Main Character - Male - Full Animation Set_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 215
+      width: 10
+      height: 16
+    spriteID: fb62588e1fe2cba4cabfb61fb314df7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 215}
+  - name: Main Character - Male - Full Animation Set_Frame_21
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 251
+      width: 13
+      height: 17
+    spriteID: 193dc385056f84e4392b869292d98821
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 251}
+  - name: Main Character - Male - Full Animation Set_Frame_22
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 362
+      width: 15
+      height: 16
+    spriteID: e1595668446025a478468df2aa999408
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 362}
+  - name: Main Character - Male - Full Animation Set_Frame_23
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 386
+      width: 15
+      height: 16
+    spriteID: 478653e2571785d47ac68f3f70ff34ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 386}
+  - name: Main Character - Male - Full Animation Set_Frame_24
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 276
+      width: 13
+      height: 17
+    spriteID: 16a2fd2bcffa3504ea510f0633325e4f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 276}
+  - name: Main Character - Male - Full Animation Set_Frame_25
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 472
+      width: 11
+      height: 18
+    spriteID: df9c2260409fb774d84a1d0d8dc9cde2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 472}
+  - name: Main Character - Male - Full Animation Set_Frame_26
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.11764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 165
+      width: 11
+      height: 17
+    spriteID: 658f167c094bf974fa46e7413eb65a9d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 165}
+  - name: Main Character - Male - Full Animation Set_Frame_27
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 190
+      width: 11
+      height: 17
+    spriteID: 9582ab7718362314d82da23cc0b9c860
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 190}
+  - name: Main Character - Male - Full Animation Set_Frame_28
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 301
+      width: 13
+      height: 17
+    spriteID: 8d8ab91766e59154eafee29dd6da4137
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 301}
+  - name: Main Character - Male - Full Animation Set_Frame_29
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 443
+      width: 15
+      height: 18
+    spriteID: 5c190e69d1bdc9244a902ebfe74b2e04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 443}
+  - name: Main Character - Male - Full Animation Set_Frame_30
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.11764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 74
+      width: 15
+      height: 17
+    spriteID: f9b4fc40ac3c6ed4aaa89b7d7c692c8e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 74}
+  - name: Main Character - Male - Full Animation Set_Frame_31
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 99
+      width: 15
+      height: 17
+    spriteID: 7d0ba1fb6f0f5c64598d82e10434c7ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 99}
+  - name: Main Character - Male - Full Animation Set_Frame_32
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 124
+      width: 15
+      height: 17
+    spriteID: 4ef1f4a75bcf086459473e0b616051ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 124}
+  - name: Main Character - Male - Full Animation Set_Frame_33
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.40000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 79
+      width: 15
+      height: 15
+    spriteID: 8ffad423beb36b04ea3b00654ca512ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 79}
+  - name: Main Character - Male - Full Animation Set_Frame_34
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 149
+      width: 15
+      height: 17
+    spriteID: 50e0d4a61c41b3d49b3b393ffef84632
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 149}
+  - name: Main Character - Male - Full Animation Set_Frame_35
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 292
+      width: 15
+      height: 19
+    spriteID: 29d626d804777d045989e45955395823
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 292}
+  - name: Main Character - Male - Full Animation Set_Frame_36
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 469
+      width: 15
+      height: 18
+    spriteID: 93ce81f90efa9614fb25c3a1b412e0e4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 469}
+  - name: Main Character - Male - Full Animation Set_Frame_37
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 261
+      width: 12
+      height: 15
+    spriteID: 57686dfe93b557b4db729885f1e33701
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 261}
+  - name: Main Character - Male - Full Animation Set_Frame_38
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 174
+      width: 15
+      height: 17
+    spriteID: bfcf7e3cf02315a439b5164f58bcd270
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 174}
+  - name: Main Character - Male - Full Animation Set_Frame_39
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 4
+      width: 15
+      height: 18
+    spriteID: d4c3131e5a57a364ebfd505974e90939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 4}
+  - name: Main Character - Male - Full Animation Set_Frame_40
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 410
+      width: 15
+      height: 16
+    spriteID: 7a2672cd641aee64a9360a31444f76d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 410}
+  - name: Main Character - Male - Full Animation Set_Frame_41
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 434
+      width: 15
+      height: 16
+    spriteID: 5d31137863993c143b0ba0c676a88692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 434}
+  - name: Main Character - Male - Full Animation Set_Frame_42
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 319
+      width: 15
+      height: 19
+    spriteID: 99a0dbc31fc22bd4fbc78cf848dc0717
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 319}
+  - name: Main Character - Male - Full Animation Set_Frame_43
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 30
+      width: 15
+      height: 18
+    spriteID: 4cdd9981826b246448efc7f346045b8a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 30}
+  - name: Main Character - Male - Full Animation Set_Frame_44
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 284
+      width: 12
+      height: 15
+    spriteID: e266c07f16f8b8c4587be68b2fb9387d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 284}
+  - name: Main Character - Male - Full Animation Set_Frame_45
+    originalName: 
+    pivot: {x: 0.53333336, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 199
+      width: 15
+      height: 17
+    spriteID: 63b305430df52be47ab4e4a0b6444cc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 199}
+  - name: Main Character - Male - Full Animation Set_Frame_46
+    originalName: 
+    pivot: {x: 0.5555556, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 340
+      width: 9
+      height: 17
+    spriteID: dee82e5abbbea854dbd2320266aabe45
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 340}
+  - name: Main Character - Male - Full Animation Set_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 455
+      width: 10
+      height: 17
+    spriteID: 95ba8d48b64979040afe60b141ea6229
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 455}
+  - name: Main Character - Male - Full Animation Set_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 480
+      width: 10
+      height: 17
+    spriteID: 6e20dcf3f8560bd4ab874a6d532ef379
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 480}
+  - name: Main Character - Male - Full Animation Set_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 68
+      width: 10
+      height: 17
+    spriteID: 8ef39b017201101438add739f61ce130
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 68}
+  - name: Main Character - Male - Full Animation Set_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 93
+      width: 10
+      height: 17
+    spriteID: 1bb4cdbcfe06f9a41ab7d4be48338d46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 93}
+  - name: Main Character - Male - Full Animation Set_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 118
+      width: 10
+      height: 17
+    spriteID: a88108e2af6bac6429aab85c9ca16cf5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 118}
+  - name: Main Character - Male - Full Animation Set_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: -0.055555556}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 307
+      width: 10
+      height: 18
+    spriteID: 6c6acad42626ed742855cbbdd8357bf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 307}
+  - name: Main Character - Male - Full Animation Set_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: -0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 193
+      width: 12
+      height: 14
+    spriteID: 0a67baa1060badf47b2ea39733cc1a3d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 193}
+  - name: Main Character - Male - Full Animation Set_Frame_54
+    originalName: 
+    pivot: {x: 0.54545456, y: 0.071428575}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 259
+      width: 11
+      height: 14
+    spriteID: 36365bfa514d3a8498156b8178f94853
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 259}
+  - name: Main Character - Male - Full Animation Set_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 143
+      width: 10
+      height: 17
+    spriteID: 4dd28d14de75885408a87c771c0bcc98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 143}
+  - name: Main Character - Male - Full Animation Set_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 168
+      width: 10
+      height: 17
+    spriteID: 0150998c97465f2429255e0307dfa5ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 168}
+  - name: Main Character - Male - Full Animation Set_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: -0.3888889}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 333
+      width: 10
+      height: 18
+    spriteID: 06cc8f8b4eb44cb4b9e5c822a91276fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 333}
+  - name: Main Character - Male - Full Animation Set_Frame_58
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.42105263}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 346
+      width: 15
+      height: 19
+    spriteID: 6a12a3f3c1b858a40a6693c17b6d16aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 346}
+  - name: Main Character - Male - Full Animation Set_Frame_59
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 313
+      width: 19
+      height: 17
+    spriteID: 9d3bf13cbae766046a8b7f7298c1fa04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 313}
+  - name: Main Character - Male - Full Animation Set_Frame_60
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 338
+      width: 19
+      height: 17
+    spriteID: 22d906bee41696a43a8a55ba184c4f31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 338}
+  - name: Main Character - Male - Full Animation Set_Frame_61
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 102
+      width: 19
+      height: 16
+    spriteID: ad1b190cbbed20c42a3786ee92047a0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 102}
+  - name: Main Character - Male - Full Animation Set_Frame_62
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 174
+      width: 20
+      height: 15
+    spriteID: 6e9baf417a553ec44b1a7916612f3131
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 174}
+  - name: Main Character - Male - Full Animation Set_Frame_63
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 373
+      width: 19
+      height: 15
+    spriteID: c34d4aa7cb172de47ad042a590e0ace3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 373}
+  - name: Main Character - Male - Full Animation Set_Frame_64
+    originalName: 
+    pivot: {x: 0.7222222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 220
+      width: 18
+      height: 16
+    spriteID: c3515e3efd7747d49919f204212e6139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 220}
+  - name: Main Character - Male - Full Animation Set_Frame_65
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 363
+      width: 19
+      height: 17
+    spriteID: fe5f22ae1412cf64a93d0f044e75760e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 363}
+  - name: Main Character - Male - Full Animation Set_Frame_66
+    originalName: 
+    pivot: {x: 0.7222222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 244
+      width: 18
+      height: 16
+    spriteID: f590ea5e34ea7a546b4256408d75c6bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 244}
+  - name: Main Character - Male - Full Animation Set_Frame_67
+    originalName: 
+    pivot: {x: 0.7222222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 268
+      width: 18
+      height: 16
+    spriteID: 7535f30aa25e76f45b4df2139bcdd935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 268}
+  - name: Main Character - Male - Full Animation Set_Frame_68
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 388
+      width: 19
+      height: 17
+    spriteID: 586f8367fda46cc44ba2fd642db457b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 388}
+  - name: Main Character - Male - Full Animation Set_Frame_69
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 20
+      height: 16
+    spriteID: 28aff8ae4f9189b4d85dcdbc3c2e32c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 463}
+  - name: Main Character - Male - Full Animation Set_Frame_70
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 487
+      width: 20
+      height: 16
+    spriteID: 5be0a4bdb367ad64db7a6817010d050b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 487}
+  - name: Main Character - Male - Full Animation Set_Frame_71
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 413
+      width: 19
+      height: 17
+    spriteID: 5159cfb21fe4a6f4894fca2e58b40a17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 413}
+  - name: Main Character - Male - Full Animation Set_Frame_72
+    originalName: 
+    pivot: {x: 0.7222222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 287
+      width: 18
+      height: 18
+    spriteID: 4388a468c505b314881e28b0a22f5267
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 287}
+  - name: Main Character - Male - Full Animation Set_Frame_73
+    originalName: 
+    pivot: {x: 0.7222222, y: -0.11764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 52
+      width: 18
+      height: 17
+    spriteID: 64091cdf2d0ef194f8189c7400a19129
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 52}
+  - name: Main Character - Male - Full Animation Set_Frame_74
+    originalName: 
+    pivot: {x: 0.7222222, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 77
+      width: 18
+      height: 17
+    spriteID: 30e6ad6ae420b9d46b52bcb6d663f1d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 77}
+  - name: Main Character - Male - Full Animation Set_Frame_75
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 438
+      width: 19
+      height: 17
+    spriteID: 4ab6882c57091544882fb2d77e1674a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 438}
+  - name: Main Character - Male - Full Animation Set_Frame_76
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 58
+      width: 20
+      height: 18
+    spriteID: cf168dd60881aa84eb7c689e6027633f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 58}
+  - name: Main Character - Male - Full Animation Set_Frame_77
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.11764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 162
+      width: 20
+      height: 17
+    spriteID: e07344692a1e87c4c8815594c3c00155
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 162}
+  - name: Main Character - Male - Full Animation Set_Frame_78
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 187
+      width: 20
+      height: 17
+    spriteID: 1e6bf46356ccb7a49bffdc4793770729
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 187}
+  - name: Main Character - Male - Full Animation Set_Frame_79
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 212
+      width: 20
+      height: 17
+    spriteID: f9814f15b599cb84e9a83bf4e710b636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 212}
+  - name: Main Character - Male - Full Animation Set_Frame_80
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.40000004}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 197
+      width: 20
+      height: 15
+    spriteID: 5b8c5d34bb5af5e458661b0abc595d8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 197}
+  - name: Main Character - Male - Full Animation Set_Frame_81
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.29411766}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 237
+      width: 20
+      height: 17
+    spriteID: 8647256dad1db34449fa0fc52ae9dad9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 237}
+  - name: Main Character - Male - Full Animation Set_Frame_82
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 20
+      height: 19
+    spriteID: e0b9d5d9cedab414ebe4da8da836cfc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Main Character - Male - Full Animation Set_Frame_83
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 20
+      height: 18
+    spriteID: 0856e53ed16d83647acc25e801e7f43f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: Main Character - Male - Full Animation Set_Frame_84
+    originalName: 
+    pivot: {x: 0.7222222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 4
+      width: 18
+      height: 15
+    spriteID: 1a2f62c9723ff354c8ba6931f820d270
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 4}
+  - name: Main Character - Male - Full Animation Set_Frame_85
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.23529412}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 262
+      width: 20
+      height: 17
+    spriteID: 13d2bcedb6061ae4d9ef051d56c38adb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 262}
+  - name: Main Character - Male - Full Animation Set_Frame_86
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.2777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 20
+      height: 18
+    spriteID: d50a240c918cb8f49b1ab046fd17379c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 110}
+  - name: Main Character - Male - Full Animation Set_Frame_87
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.5625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 4
+      width: 20
+      height: 16
+    spriteID: bbe587852fe41c640bfca224d8d95cee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 4}
+  - name: Main Character - Male - Full Animation Set_Frame_88
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 28
+      width: 20
+      height: 16
+    spriteID: 23413147d0ffc5241a8e318a30b99bce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 28}
+  - name: Main Character - Male - Full Animation Set_Frame_89
+    originalName: 
+    pivot: {x: 0.65000004, y: -0.15789473}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 31
+      width: 20
+      height: 19
+    spriteID: 4368d17cf8d4a114d88ad8a9eb0ed9b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 31}
+  - name: Main Character - Male - Full Animation Set_Frame_90
+    originalName: 
+    pivot: {x: 0.65000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 136
+      width: 20
+      height: 18
+    spriteID: d60fe1e0b5eff1445b3b3f87dd378e36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 136}
+  - name: Main Character - Male - Full Animation Set_Frame_91
+    originalName: 
+    pivot: {x: 0.7222222, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 27
+      width: 18
+      height: 15
+    spriteID: 3f348c1c9e2311d47a74b350dcc951f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 27}
+  - name: Main Character - Male - Full Animation Set_Frame_92
+    originalName: 
+    pivot: {x: 0.4666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 224
+      width: 15
+      height: 17
+    spriteID: cfb26c3ab09b7d548a43eb1d4b1dc81c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 224}
+  - name: Main Character - Male - Full Animation Set_Frame_93
+    originalName: 
+    pivot: {x: 0.57894737, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 396
+      width: 19
+      height: 15
+    spriteID: 1555c5f5eb47fdd4da78d45c33fabf26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 396}
+  - name: Main Character - Male - Full Animation Set_Frame_94
+    originalName: 
+    pivot: {x: 0.6875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 458
+      width: 16
+      height: 15
+    spriteID: 231dc4af656b84346b8d46ce8c20451e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 458}
+  - name: Main Character - Male - Full Animation Set_Frame_95
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 249
+      width: 17
+      height: 15
+    spriteID: 25e13c1beb052814eb323e262e6afa00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 249}
+  - name: Main Character - Male - Full Animation Set_Frame_96
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 102
+      width: 14
+      height: 16
+    spriteID: 03e6e11ede9c8fa48a6c9e4d94d76d0b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 102}
+  - name: Main Character - Male - Full Animation Set_Frame_97
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 326
+      width: 12
+      height: 18
+    spriteID: 5a8e1424f3428a24395cf0b2a911cd36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 326}
+  - name: Main Character - Male - Full Animation Set_Frame_98
+    originalName: 
+    pivot: {x: 0.47058824, y: -0.1875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 419
+      width: 17
+      height: 16
+    spriteID: 3450d82a55aac2248a253fe1f6b4e9c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 419}
+  - name: Main Character - Male - Full Animation Set_Frame_99
+    originalName: 
+    pivot: {x: 0.47368422, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 126
+      width: 19
+      height: 16
+    spriteID: 0a10410e721f5ab4cb8e6e279285de11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 126}
+  - name: Main Character - Male - Full Animation Set_Frame_100
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 50
+      width: 16
+      height: 16
+    spriteID: aa76d106acef7774cb2661e65650390a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 50}
+  - name: Main Character - Male - Full Animation Set_Frame_101
+    originalName: 
+    pivot: {x: 0.45454547, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 281
+      width: 11
+      height: 14
+    spriteID: 7c66ce83feed7a342acbc5f3b938aa29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 281}
+  - name: Main Character - Male - Full Animation Set_Frame_102
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 352
+      width: 14
+      height: 15
+    spriteID: 909ee859644c3f946a419fec570345ef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 352}
+  - name: Main Character - Male - Full Animation Set_Frame_103
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 481
+      width: 15
+      height: 16
+    spriteID: 50184c9c96a5a774983b2c01d108fe36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 481}
+  - name: Main Character - Male - Full Animation Set_Frame_104
+    originalName: 
+    pivot: {x: 0.45454547, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 303
+      width: 11
+      height: 14
+    spriteID: 3669bc4dc752f4c489984527c70ce9f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 303}
+  - name: Main Character - Male - Full Animation Set_Frame_105
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 60
+      y: 375
+      width: 14
+      height: 15
+    spriteID: 7b77f44af565d2d49b3b30e57af172d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 60, y: 375}
+  - name: Main Character - Male - Full Animation Set_Frame_106
+    originalName: 
+    pivot: {x: 0.6428572, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 26
+      width: 14
+      height: 14
+    spriteID: 7fd3320dc55427243927dbbecc7ad7c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 26}
+  - name: Main Character - Male - Full Animation Set_Frame_107
+    originalName: 
+    pivot: {x: 0.6923077, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 239
+      width: 13
+      height: 12
+    spriteID: 3f4c386d175f03e45951050624a98cbd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 239}
+  - name: Main Character - Male - Full Animation Set_Frame_108
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 365
+      width: 21
+      height: 7
+    spriteID: 3cd4c4f0ca71c9d45912dddf3bc1095d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 365}
+  - name: Main Character - Male - Full Animation Set_Frame_109
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 380
+      width: 21
+      height: 7
+    spriteID: 5b1f3000ebb534d43b43d3b13bfff9ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 380}
+  - name: Main Character - Male - Full Animation Set_Frame_110
+    originalName: 
+    pivot: {x: 0.71428573, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 395
+      width: 21
+      height: 7
+    spriteID: 0579452053992e545b1a6e74de95290e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 395}
+  - name: Main Character - Male - Full Animation Set_Frame_111
+    originalName: 
+    pivot: {x: 0.72727275, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 325
+      width: 22
+      height: 7
+    spriteID: e4b822e36947fa84c911c77c9495b8bf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 325}
+  - name: Main Character - Male - Full Animation Set_Frame_112
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 318
+      width: 18
+      height: 14
+    spriteID: 864012103e3f53846858e10211f71ec3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 318}
+  - name: Main Character - Male - Full Animation Set_Frame_113
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 272
+      width: 17
+      height: 15
+    spriteID: 323eaa72ece02104c89ce84786179bee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 272}
+  - name: Main Character - Male - Full Animation Set_Frame_114
+    originalName: 
+    pivot: {x: 0.68421054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 150
+      width: 19
+      height: 16
+    spriteID: 69d6fde805a69aa479592c21f83898ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 150}
+  - name: Main Character - Male - Full Animation Set_Frame_115
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 340
+      width: 18
+      height: 14
+    spriteID: bd09050e11461724ab4814d10dc629a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 340}
+  - name: Main Character - Male - Full Animation Set_Frame_116
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 83
+      y: 295
+      width: 17
+      height: 15
+    spriteID: 8a03079f9e2a79948afde0a18d896638
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 83, y: 295}
+  - name: Main Character - Male - Full Animation Set_Frame_117
+    originalName: 
+    pivot: {x: 0.6875, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 109
+      y: 4
+      width: 16
+      height: 14
+    spriteID: 130aa711c2867d7478ca3f9286f395e8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 109, y: 4}
+  - name: Main Character - Male - Full Animation Set_Frame_118
+    originalName: 
+    pivot: {x: 0.7647059, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 495
+      width: 17
+      height: 12
+    spriteID: 81a4e1c89d809a049a89ee2cbbf24d75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 32, y: 495}
+  - name: Main Character - Male - Full Animation Set_Frame_119
+    originalName: 
+    pivot: {x: 0.72727275, y: 0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 4
+      width: 22
+      height: 8
+    spriteID: 22a4de41d5b1cbf468849fae879a7482
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 4}
+  - name: Main Character - Male - Full Animation Set_Frame_120
+    originalName: 
+    pivot: {x: 0.72727275, y: 0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 20
+      width: 22
+      height: 8
+    spriteID: 023bbd09b0516fe4ca328e8ede7b0b2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 20}
+  - name: Main Character - Male - Full Animation Set_Frame_121
+    originalName: 
+    pivot: {x: 0.72727275, y: 0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 36
+      width: 22
+      height: 8
+    spriteID: 11a3cddd643470c4aae9eda003c42380
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 36}
+  - name: Main Character - Male - Full Animation Set_Frame_122
+    originalName: 
+    pivot: {x: 0.72727275, y: 0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 52
+      width: 22
+      height: 8
+    spriteID: a70f2af03c422dd4ca269d430032f48c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 52}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1312767878
+    name: Main Character - Male - Full Animation Set
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Main Character - Male - Full Animation Set_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: c104ca25e5f992048a718b3ae81d6fb1
+    - name: Main Character - Male - Full Animation Set_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 2f456d0414deda448bf5be0b82bc7eb8
+    - name: Main Character - Male - Full Animation Set_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 16
+      spriteId: c27a8d673b16e0147b67fea0c15fa7b3
+    - name: Main Character - Male - Full Animation Set_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 15
+      spriteId: d71469ebae4ce0b428ea02fd66267000
+    - name: Main Character - Male - Full Animation Set_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 15
+      spriteId: ed17c4f9343fc074c8a1043e386dbb74
+    - name: Main Character - Male - Full Animation Set_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 10
+        y: 0
+        width: 11
+        height: 16
+      spriteId: 76894737d9414cd4aa73dce0fa95c253
+    - name: Main Character - Male - Full Animation Set_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 77483e6afdf729445bf830c72a0dd153
+    - name: Main Character - Male - Full Animation Set_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 1db6365228b61c9488dc8069d2db74d9
+    - name: Main Character - Male - Full Animation Set_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 16
+      spriteId: c106005dca845864cbc2156f5d777b90
+    - name: Main Character - Male - Full Animation Set_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 8
+        y: 0
+        width: 13
+        height: 15
+      spriteId: a77cbdb97fb4c7c46815919ccdde8007
+    - name: Main Character - Male - Full Animation Set_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 15
+      spriteId: 858d738a355e7434aa6a6674be0728ff
+    - name: Main Character - Male - Full Animation Set_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 0
+        width: 11
+        height: 16
+      spriteId: 0e3ec16ccfe18bb4094595bf40557f87
+    - name: Main Character - Male - Full Animation Set_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 17
+      spriteId: 20ad0ad3bacc4314fb2027c8313574c3
+    - name: Main Character - Male - Full Animation Set_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 17
+      spriteId: ecf8bc6132b37e347aa8e8f55bf4181f
+    - name: Main Character - Male - Full Animation Set_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 16
+      spriteId: 7ac8ea44fa4470d49ab92cc8f5b5fd44
+    - name: Main Character - Male - Full Animation Set_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 8
+        y: 0
+        width: 13
+        height: 15
+      spriteId: 9ce603d711cb25f4eb62f2ae0886e781
+    - name: Main Character - Male - Full Animation Set_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 15
+      spriteId: 56c33154b87d71c4da34fac0761d6ffe
+    - name: Main Character - Male - Full Animation Set_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 10
+        y: 0
+        width: 11
+        height: 16
+      spriteId: 50c8e8cfa5cc20549b23b7385a85e5a6
+    - name: Main Character - Male - Full Animation Set_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 5cecbe18b21004840bf07296930c2df0
+    - name: Main Character - Male - Full Animation Set_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 10
+        y: 0
+        width: 11
+        height: 16
+      spriteId: babf28486d09184488e22545b3cd5d92
+    - name: Main Character - Male - Full Animation Set_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 11
+        y: 0
+        width: 10
+        height: 16
+      spriteId: fb62588e1fe2cba4cabfb61fb314df7b
+    - name: Main Character - Male - Full Animation Set_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 193dc385056f84e4392b869292d98821
+    - name: Main Character - Male - Full Animation Set_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 16
+      spriteId: e1595668446025a478468df2aa999408
+    - name: Main Character - Male - Full Animation Set_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 16
+      spriteId: 478653e2571785d47ac68f3f70ff34ed
+    - name: Main Character - Male - Full Animation Set_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 16a2fd2bcffa3504ea510f0633325e4f
+    - name: Main Character - Male - Full Animation Set_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 10
+        y: 0
+        width: 11
+        height: 18
+      spriteId: df9c2260409fb774d84a1d0d8dc9cde2
+    - name: Main Character - Male - Full Animation Set_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 10
+        y: 2
+        width: 11
+        height: 17
+      spriteId: 658f167c094bf974fa46e7413eb65a9d
+    - name: Main Character - Male - Full Animation Set_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 10
+        y: 1
+        width: 11
+        height: 17
+      spriteId: 9582ab7718362314d82da23cc0b9c860
+    - name: Main Character - Male - Full Animation Set_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 9
+        y: 0
+        width: 13
+        height: 17
+      spriteId: 8d8ab91766e59154eafee29dd6da4137
+    - name: Main Character - Male - Full Animation Set_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 18
+      spriteId: 5c190e69d1bdc9244a902ebfe74b2e04
+    - name: Main Character - Male - Full Animation Set_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 8
+        y: 2
+        width: 15
+        height: 17
+      spriteId: f9b4fc40ac3c6ed4aaa89b7d7c692c8e
+    - name: Main Character - Male - Full Animation Set_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 8
+        y: 1
+        width: 15
+        height: 17
+      spriteId: 7d0ba1fb6f0f5c64598d82e10434c7ba
+    - name: Main Character - Male - Full Animation Set_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 17
+      spriteId: 4ef1f4a75bcf086459473e0b616051ea
+    - name: Main Character - Male - Full Animation Set_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 8
+        y: 6
+        width: 15
+        height: 15
+      spriteId: 8ffad423beb36b04ea3b00654ca512ab
+    - name: Main Character - Male - Full Animation Set_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 8
+        y: 5
+        width: 15
+        height: 17
+      spriteId: 50e0d4a61c41b3d49b3b393ffef84632
+    - name: Main Character - Male - Full Animation Set_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 8
+        y: 3
+        width: 15
+        height: 19
+      spriteId: 29d626d804777d045989e45955395823
+    - name: Main Character - Male - Full Animation Set_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 18
+      spriteId: 93ce81f90efa9614fb25c3a1b412e0e4
+    - name: Main Character - Male - Full Animation Set_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 15
+      spriteId: 57686dfe93b557b4db729885f1e33701
+    - name: Main Character - Male - Full Animation Set_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 8
+        y: 4
+        width: 15
+        height: 17
+      spriteId: bfcf7e3cf02315a439b5164f58bcd270
+    - name: Main Character - Male - Full Animation Set_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 8
+        y: 5
+        width: 15
+        height: 18
+      spriteId: d4c3131e5a57a364ebfd505974e90939
+    - name: Main Character - Male - Full Animation Set_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 8
+        y: 9
+        width: 15
+        height: 16
+      spriteId: 7a2672cd641aee64a9360a31444f76d5
+    - name: Main Character - Male - Full Animation Set_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 8
+        y: 10
+        width: 15
+        height: 16
+      spriteId: 5d31137863993c143b0ba0c676a88692
+    - name: Main Character - Male - Full Animation Set_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 8
+        y: 3
+        width: 15
+        height: 19
+      spriteId: 99a0dbc31fc22bd4fbc78cf848dc0717
+    - name: Main Character - Male - Full Animation Set_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 8
+        y: 0
+        width: 15
+        height: 18
+      spriteId: 4cdd9981826b246448efc7f346045b8a
+    - name: Main Character - Male - Full Animation Set_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 15
+      spriteId: e266c07f16f8b8c4587be68b2fb9387d
+    - name: Main Character - Male - Full Animation Set_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 8
+        y: 5
+        width: 15
+        height: 17
+      spriteId: 63b305430df52be47ab4e4a0b6444cc6
+    - name: Main Character - Male - Full Animation Set_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 11
+        y: 5
+        width: 9
+        height: 17
+      spriteId: dee82e5abbbea854dbd2320266aabe45
+    - name: Main Character - Male - Full Animation Set_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: 95ba8d48b64979040afe60b141ea6229
+    - name: Main Character - Male - Full Animation Set_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: 6e20dcf3f8560bd4ab874a6d532ef379
+    - name: Main Character - Male - Full Animation Set_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: 8ef39b017201101438add739f61ce130
+    - name: Main Character - Male - Full Animation Set_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: 1bb4cdbcfe06f9a41ab7d4be48338d46
+    - name: Main Character - Male - Full Animation Set_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: a88108e2af6bac6429aab85c9ca16cf5
+    - name: Main Character - Male - Full Animation Set_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 11
+        y: 1
+        width: 10
+        height: 18
+      spriteId: 6c6acad42626ed742855cbbdd8357bf0
+    - name: Main Character - Male - Full Animation Set_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 14
+      spriteId: 0a67baa1060badf47b2ea39733cc1a3d
+    - name: Main Character - Male - Full Animation Set_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 10
+        y: -1
+        width: 11
+        height: 14
+      spriteId: 36365bfa514d3a8498156b8178f94853
+    - name: Main Character - Male - Full Animation Set_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: 4dd28d14de75885408a87c771c0bcc98
+    - name: Main Character - Male - Full Animation Set_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 11
+        y: 5
+        width: 10
+        height: 17
+      spriteId: 0150998c97465f2429255e0307dfa5ea
+    - name: Main Character - Male - Full Animation Set_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 11
+        y: 7
+        width: 10
+        height: 18
+      spriteId: 06cc8f8b4eb44cb4b9e5c822a91276fa
+    - name: Main Character - Male - Full Animation Set_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 10
+        y: 8
+        width: 15
+        height: 19
+      spriteId: 6a12a3f3c1b858a40a6693c17b6d16aa
+    - name: Main Character - Male - Full Animation Set_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 17
+      spriteId: 9d3bf13cbae766046a8b7f7298c1fa04
+    - name: Main Character - Male - Full Animation Set_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 17
+      spriteId: 22d906bee41696a43a8a55ba184c4f31
+    - name: Main Character - Male - Full Animation Set_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 16
+      spriteId: ad1b190cbbed20c42a3786ee92047a0b
+    - name: Main Character - Male - Full Animation Set_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 15
+      spriteId: 6e9baf417a553ec44b1a7916612f3131
+    - name: Main Character - Male - Full Animation Set_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 15
+      spriteId: c34d4aa7cb172de47ad042a590e0ace3
+    - name: Main Character - Male - Full Animation Set_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 3
+        y: 0
+        width: 18
+        height: 16
+      spriteId: c3515e3efd7747d49919f204212e6139
+    - name: Main Character - Male - Full Animation Set_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 17
+      spriteId: fe5f22ae1412cf64a93d0f044e75760e
+    - name: Main Character - Male - Full Animation Set_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 3
+        y: 0
+        width: 18
+        height: 16
+      spriteId: f590ea5e34ea7a546b4256408d75c6bb
+    - name: Main Character - Male - Full Animation Set_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 3
+        y: 0
+        width: 18
+        height: 16
+      spriteId: 7535f30aa25e76f45b4df2139bcdd935
+    - name: Main Character - Male - Full Animation Set_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 17
+      spriteId: 586f8367fda46cc44ba2fd642db457b5
+    - name: Main Character - Male - Full Animation Set_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 28aff8ae4f9189b4d85dcdbc3c2e32c7
+    - name: Main Character - Male - Full Animation Set_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 5be0a4bdb367ad64db7a6817010d050b
+    - name: Main Character - Male - Full Animation Set_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 17
+      spriteId: 5159cfb21fe4a6f4894fca2e58b40a17
+    - name: Main Character - Male - Full Animation Set_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 3
+        y: 0
+        width: 18
+        height: 18
+      spriteId: 4388a468c505b314881e28b0a22f5267
+    - name: Main Character - Male - Full Animation Set_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 3
+        y: 2
+        width: 18
+        height: 17
+      spriteId: 64091cdf2d0ef194f8189c7400a19129
+    - name: Main Character - Male - Full Animation Set_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 3
+        y: 1
+        width: 18
+        height: 17
+      spriteId: 30e6ad6ae420b9d46b52bcb6d663f1d9
+    - name: Main Character - Male - Full Animation Set_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 17
+      spriteId: 4ab6882c57091544882fb2d77e1674a0
+    - name: Main Character - Male - Full Animation Set_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 18
+      spriteId: cf168dd60881aa84eb7c689e6027633f
+    - name: Main Character - Male - Full Animation Set_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 3
+        y: 2
+        width: 20
+        height: 17
+      spriteId: e07344692a1e87c4c8815594c3c00155
+    - name: Main Character - Male - Full Animation Set_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 3
+        y: 1
+        width: 20
+        height: 17
+      spriteId: 1e6bf46356ccb7a49bffdc4793770729
+    - name: Main Character - Male - Full Animation Set_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 17
+      spriteId: f9814f15b599cb84e9a83bf4e710b636
+    - name: Main Character - Male - Full Animation Set_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 3
+        y: 6
+        width: 20
+        height: 15
+      spriteId: 5b8c5d34bb5af5e458661b0abc595d8c
+    - name: Main Character - Male - Full Animation Set_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 3
+        y: 5
+        width: 20
+        height: 17
+      spriteId: 8647256dad1db34449fa0fc52ae9dad9
+    - name: Main Character - Male - Full Animation Set_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 3
+        y: 3
+        width: 20
+        height: 19
+      spriteId: e0b9d5d9cedab414ebe4da8da836cfc1
+    - name: Main Character - Male - Full Animation Set_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 18
+      spriteId: 0856e53ed16d83647acc25e801e7f43f
+    - name: Main Character - Male - Full Animation Set_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 3
+        y: 0
+        width: 18
+        height: 15
+      spriteId: 1a2f62c9723ff354c8ba6931f820d270
+    - name: Main Character - Male - Full Animation Set_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 3
+        y: 4
+        width: 20
+        height: 17
+      spriteId: 13d2bcedb6061ae4d9ef051d56c38adb
+    - name: Main Character - Male - Full Animation Set_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 3
+        y: 5
+        width: 20
+        height: 18
+      spriteId: d50a240c918cb8f49b1ab046fd17379c
+    - name: Main Character - Male - Full Animation Set_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 3
+        y: 9
+        width: 20
+        height: 16
+      spriteId: bbe587852fe41c640bfca224d8d95cee
+    - name: Main Character - Male - Full Animation Set_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 3
+        y: 10
+        width: 20
+        height: 16
+      spriteId: 23413147d0ffc5241a8e318a30b99bce
+    - name: Main Character - Male - Full Animation Set_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 3
+        y: 3
+        width: 20
+        height: 19
+      spriteId: 4368d17cf8d4a114d88ad8a9eb0ed9b2
+    - name: Main Character - Male - Full Animation Set_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 3
+        y: 0
+        width: 20
+        height: 18
+      spriteId: d60fe1e0b5eff1445b3b3f87dd378e36
+    - name: Main Character - Male - Full Animation Set_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 3
+        y: 0
+        width: 18
+        height: 15
+      spriteId: 3f348c1c9e2311d47a74b350dcc951f1
+    - name: Main Character - Male - Full Animation Set_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 9
+        y: 0
+        width: 15
+        height: 17
+      spriteId: cfb26c3ab09b7d548a43eb1d4b1dc81c
+    - name: Main Character - Male - Full Animation Set_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 5
+        y: 0
+        width: 19
+        height: 15
+      spriteId: 1555c5f5eb47fdd4da78d45c33fabf26
+    - name: Main Character - Male - Full Animation Set_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 5
+        y: 0
+        width: 16
+        height: 15
+      spriteId: 231dc4af656b84346b8d46ce8c20451e
+    - name: Main Character - Male - Full Animation Set_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 6
+        y: 0
+        width: 17
+        height: 15
+      spriteId: 25e13c1beb052814eb323e262e6afa00
+    - name: Main Character - Male - Full Animation Set_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 8
+        y: 0
+        width: 14
+        height: 16
+      spriteId: 03e6e11ede9c8fa48a6c9e4d94d76d0b
+    - name: Main Character - Male - Full Animation Set_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 9
+        y: 0
+        width: 12
+        height: 18
+      spriteId: 5a8e1424f3428a24395cf0b2a911cd36
+    - name: Main Character - Male - Full Animation Set_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 8
+        y: 3
+        width: 17
+        height: 16
+      spriteId: 3450d82a55aac2248a253fe1f6b4e9c1
+    - name: Main Character - Male - Full Animation Set_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 7
+        y: 2
+        width: 19
+        height: 16
+      spriteId: 0a10410e721f5ab4cb8e6e279285de11
+    - name: Main Character - Male - Full Animation Set_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 8
+        y: 0
+        width: 16
+        height: 16
+      spriteId: aa76d106acef7774cb2661e65650390a
+    - name: Main Character - Male - Full Animation Set_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 11
+        y: 0
+        width: 11
+        height: 14
+      spriteId: 7c66ce83feed7a342acbc5f3b938aa29
+    - name: Main Character - Male - Full Animation Set_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 8
+        y: 0
+        width: 14
+        height: 15
+      spriteId: 909ee859644c3f946a419fec570345ef
+    - name: Main Character - Male - Full Animation Set_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 7
+        y: 0
+        width: 15
+        height: 16
+      spriteId: 50184c9c96a5a774983b2c01d108fe36
+    - name: Main Character - Male - Full Animation Set_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 11
+        y: 0
+        width: 11
+        height: 14
+      spriteId: 3669bc4dc752f4c489984527c70ce9f2
+    - name: Main Character - Male - Full Animation Set_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 8
+        y: 0
+        width: 14
+        height: 15
+      spriteId: 7b77f44af565d2d49b3b30e57af172d9
+    - name: Main Character - Male - Full Animation Set_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 7
+        y: 0
+        width: 14
+        height: 14
+      spriteId: 7fd3320dc55427243927dbbecc7ad7c5
+    - name: Main Character - Male - Full Animation Set_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 7
+        y: 0
+        width: 13
+        height: 12
+      spriteId: 3f4c386d175f03e45951050624a98cbd
+    - name: Main Character - Male - Full Animation Set_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 1
+        y: 0
+        width: 21
+        height: 7
+      spriteId: 3cd4c4f0ca71c9d45912dddf3bc1095d
+    - name: Main Character - Male - Full Animation Set_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 1
+        y: 0
+        width: 21
+        height: 7
+      spriteId: 5b1f3000ebb534d43b43d3b13bfff9ee
+    - name: Main Character - Male - Full Animation Set_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 1
+        y: 0
+        width: 21
+        height: 7
+      spriteId: 0579452053992e545b1a6e74de95290e
+    - name: Main Character - Male - Full Animation Set_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 0
+        y: 0
+        width: 22
+        height: 7
+      spriteId: e4b822e36947fa84c911c77c9495b8bf
+    - name: Main Character - Male - Full Animation Set_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 4
+        y: 0
+        width: 18
+        height: 14
+      spriteId: 864012103e3f53846858e10211f71ec3
+    - name: Main Character - Male - Full Animation Set_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 15
+      spriteId: 323eaa72ece02104c89ce84786179bee
+    - name: Main Character - Male - Full Animation Set_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 3
+        y: 0
+        width: 19
+        height: 16
+      spriteId: 69d6fde805a69aa479592c21f83898ed
+    - name: Main Character - Male - Full Animation Set_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 4
+        y: 0
+        width: 18
+        height: 14
+      spriteId: bd09050e11461724ab4814d10dc629a9
+    - name: Main Character - Male - Full Animation Set_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 15
+      spriteId: 8a03079f9e2a79948afde0a18d896638
+    - name: Main Character - Male - Full Animation Set_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 5
+        y: 0
+        width: 16
+        height: 14
+      spriteId: 130aa711c2867d7478ca3f9286f395e8
+    - name: Main Character - Male - Full Animation Set_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 3
+        y: 0
+        width: 17
+        height: 12
+      spriteId: 81a4e1c89d809a049a89ee2cbbf24d75
+    - name: Main Character - Male - Full Animation Set_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 0
+        y: -1
+        width: 22
+        height: 8
+      spriteId: 22a4de41d5b1cbf468849fae879a7482
+    - name: Main Character - Male - Full Animation Set_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 0
+        y: -1
+        width: 22
+        height: 8
+      spriteId: 023bbd09b0516fe4ca328e8ede7b0b2f
+    - name: Main Character - Male - Full Animation Set_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 0
+        y: -1
+        width: 22
+        height: 8
+      spriteId: 11a3cddd643470c4aae9eda003c42380
+    - name: Main Character - Male - Full Animation Set_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 0
+        y: -1
+        width: 22
+        height: 8
+      spriteId: a70f2af03c422dd4ca269d430032f48c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}
