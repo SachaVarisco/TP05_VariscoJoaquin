@@ -9,7 +9,7 @@ public class Player_Move : MonoBehaviour
    
     [Header("Movement")]
     private bool isRun;
-    private float horizontalMove;
+    public float horizontalMove;
     private float speed;
     
     [Header("Components")]
@@ -52,4 +52,8 @@ public class Player_Move : MonoBehaviour
         }
     }
 
+    public Vector2 CheckSpeed()
+    {
+        return new Vector2 (horizontalMove, rb2D.velocity.y);
+    }
 }

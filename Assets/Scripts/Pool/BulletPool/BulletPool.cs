@@ -5,21 +5,19 @@ using UnityEngine;
 public class BulletPool : MonoBehaviour
 {
     //public static Pool Instance;
+    [Header("Player data")]
+    [SerializeField] private PlayerData playerData;
+
+    [Header ("Pool")]
     public GameObject BulletPrefab;
-    [SerializeField] private int ammoBullet;
-    [SerializeField] private int maxBullet;
+    private int ammoBullet;
+    private int maxBullet;
     private List<GameObject> BulletList;
     private void Awake()
     {
-        /*if (Pool.Instance == null)
-        {
-            Pool.Instance = this;
-            DontDestroyOnLoad(this.gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }*/
+        playerData.SetAmmo();
+        maxBullet = playerData.maxAmmo;
+        ammoBullet = playerData.actualAmmo; 
     }
     private void Start()
     {
@@ -38,6 +36,7 @@ public class BulletPool : MonoBehaviour
         {
             if (!bullet.gameObject.activeInHierarchy)
             {
+                playerData.actualAmmo--;
                 return bullet.gameObject;
             }
         }
@@ -59,6 +58,7 @@ public class BulletPool : MonoBehaviour
 
     public void ReturnBullet(GameObject Bullet)
     {
+        playerData.actualAmmo++;
         Bullet.SetActive(false);
     }
 

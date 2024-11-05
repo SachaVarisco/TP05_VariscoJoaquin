@@ -17,11 +17,13 @@ public class BulletController : MonoBehaviour
     private float currentTime;
     [Header("Direction")]
     private Vector2 direction;
+    private bool canMove;
 
     [Header("Components")]
 
     private SpriteRenderer SR;
     private Rigidbody2D rb2D;
+    [SerializeField] private ParticleSystem partSystem;
 
 
     private void Awake()
@@ -33,6 +35,8 @@ public class BulletController : MonoBehaviour
 
     private void OnEnable()
     {
+        SR.enabled = true;
+        canMove = true;
         currentTime = bulletData.lifeTime;
         if (playerLook.localScale.x == 1)
         {
@@ -49,20 +53,33 @@ public class BulletController : MonoBehaviour
     private void Update()
     {
         currentTime -= Time.deltaTime;
+        if (canMove)
+        {
+            rb2D.velocity = direction * bulletData.speed;
+        }
         
-        rb2D.velocity = direction * bulletData.speed;
         if (currentTime <= 0)
         {
             pool.ReturnBullet(gameObject);
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.layer == 7) //Enemies
+        if (other.gameObject.layer == 7)//Enemy
         {
-            
+            canMove = false;
+            other.gameObject.GetComponent<EnemyControl>().TakeDamage();
+            StartCoroutine("PlayParticles");
         }
         
+    }
+
+    private IEnumerator PlayParticles()
+    {
+        SR.enabled = false;
+        partSystem.Play();
+        yield return new WaitForSeconds(0.1f);
+        pool.ReturnBullet(gameObject);
     }
 }

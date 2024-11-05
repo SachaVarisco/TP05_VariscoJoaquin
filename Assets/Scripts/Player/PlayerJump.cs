@@ -32,17 +32,26 @@ public class PlayerJump : MonoBehaviour
         animator.SetFloat("MoveY", rb2D.velocity.y); 
         animator.SetBool("IsGround", isGrounded);
         
+        
         if (Input.GetKeyDown(playerData.jumpKey) && isGrounded)
         {
             toLand = true;
-            //Audio_Controller.Instance.PlaySound(playerData.jumpSound);
+            Audio_Controller.Instance.PlaySound(playerData.jumpClip);
             rb2D.AddForce(Vector2.up * playerData.jumpForce);
         }
         if (isGrounded && toLand && rb2D.velocity.y < 0)
         {
             toLand = false;
-            //Audio_Controller.Instance.PlaySound(playerData.landSound);
+            Audio_Controller.Instance.PlaySound(playerData.landClip);
 
+        }
+        if (!isGrounded)
+        {
+            rb2D.gravityScale = playerData.gravity;
+        }
+        else
+        {
+            rb2D.gravityScale = 0;
         }
     }
     /*void OnDrawGizmos()

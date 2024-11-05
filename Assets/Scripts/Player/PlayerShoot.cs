@@ -27,8 +27,9 @@ public class PlayerShoot : MonoBehaviour
     private void Update()
     {
         currentTime -= Time.deltaTime;
-        if (Input.GetKeyDown(playerData.shotKey))
+        if (Input.GetKeyDown(playerData.shotKey) && currentTime <= 0)
         {
+            Audio_Controller.Instance.PlaySound(playerData.shootClip);
             GameObject Bullet = pool.GetComponent<BulletPool>().GetBullet();
             if (Bullet != null)
             {
