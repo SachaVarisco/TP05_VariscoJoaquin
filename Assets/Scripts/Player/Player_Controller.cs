@@ -37,10 +37,7 @@ public class Player_Controller : MonoBehaviour
             case 7:
                 if (playerData.actualLife > 0)
                 {
-                    Audio_Controller.Instance.PlaySound(playerData.damagedClip);
-                    rb2D.velocity = new Vector2(-playerData.impactVelocity.x * collision.GetContact(0).normal.x, playerData.impactVelocity.y);
-                    animator.SetTrigger("Damaged");
-                    playerData.TakeDamage();
+                    Damaged(collision);
                 }
                 break;
             
@@ -55,6 +52,9 @@ public class Player_Controller : MonoBehaviour
             case 11:
                 SceneManager.LoadScene("Victory");
                 break;
+            case 12:
+                Damaged(collision);
+                break;
 
         }
     }
@@ -64,6 +64,12 @@ public class Player_Controller : MonoBehaviour
         rb2D.velocity = new Vector2(0, 0);
     }
 
-
+    private void Damaged(Collision2D collision)
+    {
+        Audio_Controller.Instance.PlaySound(playerData.damagedClip);
+        rb2D.velocity = new Vector2(-playerData.impactVelocity.x * collision.GetContact(0).normal.x, playerData.impactVelocity.y);
+        animator.SetTrigger("Damaged");
+        playerData.TakeDamage();
+    }
 
 }
